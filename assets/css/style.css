@@ -161,6 +161,10 @@ h6 {
   background: rgba(0, 0, 0, 0.9);
 }
 
+#header.header-top .navbar {
+    margin: 0;
+}
+
 #header.header-top .social-links,
 #header.header-top h2 {
   display: none;
