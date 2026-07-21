@@ -94,19 +94,6 @@ h6 {
   overflow-y: auto;
 }
 
-#header{
-
-    background:
-        linear-gradient(
-            rgba(10,10,10,.78),
-            rgba(10,10,10,.88)
-        ),
-        url("../img/hero.jpg") center center;
-
-    background-size:cover;
-
-}
-
 #header p{
     max-width:700px;
     margin-top:20px;
