@@ -201,20 +201,14 @@ h6 {
     margin-top:50px;
 }
 
-.navbar ul {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  list-style: none;
-  align-items: center;
+.navbar ul{
+    display:flex;
+    align-items:center;
+    gap:32px;
 }
 
 .navbar li {
   position: relative;
-}
-
-.navbar li+li {
-  margin-left: 30px;
 }
 
 .navbar a,
